@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none; /*To remove the decoration of <a> tag*/
+}
+body{
+    background-color: rgba(245, 245, 245, 0.39);
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s-m{
+    margin: 50px;
+}
+.s-m a i{
+    margin: 20px;
+    font-size: 80px;
+    background-color: rgb(47, 49, 79);
+    color: floralwhite;
+    width: 120px;
+    height: 120px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: all 1s ease;
+}
+.s-m a:hover > i{
+    transform:scale(1.2) rotate(740deg);
+}
+.fa-facebook-official:hover{
+    background-color: #3B5998;
+}
+.fa-twitter-square:hover{
+    background-color: #00acee;
+}
+.fa-instagram:hover{
+    /* background: #d6249f; */
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+.fa-youtube-play:hover{
+    background-color: #FF0000;    ;
+}

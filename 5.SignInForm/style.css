@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex; /*Autai line ma lagna*/
+    height: 100vh;
+    background-color: rebeccapurple;
+    align-items: center;/* content ---- centerr*/
+     justify-content: center;  /*content lae line center ma lagna*/
+}
+.container{
+    background-color: aliceblue;
+    height: 80vh; /*container ko height */
+    width: 400px; /*container ko width */
+    border-radius: 30px;
+    overflow: hidden; 
+    box-shadow: 100px;
+    text-align: center; /*whole body ko center ma */
+}
+.header{
+    display: table-cell;
+    height: 120px;
+    width: 400px;
+    background-color: green; /* header color*/
+    border-radius: 30px 30px 0px 0px;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+input{
+    display: block;
+}
+input:focus:placeholder-shown
+{
+    border-bottom: 2px solid red;
+}
+input:not(:placeholder-shown){
+    border-bottom: 2px solid green;
+}
+.text_field{
+    margin: 10px auto;
+    margin-top: 40px;
+    /* margin:20px auto; */
+    width: 80%;
+    height: 45px;
+    padding-left: 20px;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    background-color: #cccddd;
+    text-transform: capitalize;
+}
+p{
+    color: #888;
+    margin-top: 30px;
+    text-align: right;
+}
+p a{
+    text-decoration: none;
+    color:rgb(7, 197, 7);
+    margin-right: 10%;
+}
+button{
+    margin: 7% 10% ;
+    width: 80%;
+    height: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    background-color: green;
+    color: #ffffff;
+    cursor: pointer;
+    
+}
+button+p{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.signup{
+    font-size: .8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(7, 197, 7);
+    font-weight: 600;
+    text-transform: uppercase;
+}
+  button:hover{
+    background-color:rgb(8, 155, 8); ;
+  }
+
+  

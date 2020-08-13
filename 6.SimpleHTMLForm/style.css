@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding : 0;
+}
+body{
+    background-color: azure;
+    height: 100vh;
+    width: 
+    display: fit-content;
+    margin: 50px;
+    margin-top: 20px;
+}
+.email{
+    columns: #000000;
+    margin-top: 15px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}

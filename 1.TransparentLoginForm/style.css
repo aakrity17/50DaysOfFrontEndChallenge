@@ -1,0 +1,69 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url(https://wallpaperplay.com/walls/full/a/f/6/244149.jpg) no-repeat;
+    background-size: cover;
+}
+.login-box{
+width: 380px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: azure;
+
+}
+.login-box h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 5px solid white;
+    margin-bottom: 50px;
+    padding: 13px 0;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 30px;
+    padding: 8px 0;
+    margin: 8px 0px;
+    border-bottom: 2px solid #eee;
+}
+.textbox i{
+    width: 16px;
+    font-size: 2rem;
+    float: left;
+    text-align: center;
+}
+
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color:white;
+    font-size: 18px;
+    width: 100%;
+    margin: 0 10px ;
+    float: left;
+}
+
+.textbox input::placeholder{
+    color: white;
+}
+
+.button{
+    width: 100%;
+    background: none;
+    border: 2px  solid greenyellow; 
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 20px;
+    cursor:grabbing;
+    margin: 12px 0;
+    transition: all .2s ease;
+}
+.button:hover{
+    background: greenyellow;
+    color: black;
+}
