@@ -4,7 +4,7 @@ body{
     padding: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background: url(https://wallpaperplay.com/walls/full/a/f/6/244149.jpg) no-repeat;
-    background-size: cover;
+ background-size: cover;
 }
 .login-box{
 width: 380px;
@@ -46,7 +46,6 @@ color: azure;
     margin: 0 10px ;
     float: left;
 }
-
 .textbox input::placeholder{
     color: white;
 }
