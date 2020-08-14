@@ -13,7 +13,6 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 color: azure;
-
 }
 .login-box h1{
     float: left;
@@ -51,7 +50,6 @@ color: azure;
 .textbox input::placeholder{
     color: white;
 }
-
 .button{
     width: 100%;
     background: none;

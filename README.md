@@ -14,7 +14,7 @@ Front-End Projects During the Challenge will be added here...
 | Day 9 | 7th August, 2020 | [Image Slide Animation](https://codepen.io/aakrity17/details/bGpNYjo) |
 | Day 10 | 8th August, 2020 | [Drop Down Menu](https://codepen.io/aakrity17/pen/vYGOYOq) |
 | Day 11 | 9th August, 2020 | [Animated Check Box](https://codepen.io/aakrity17/pen/MWywjxg) |
-| Day x | 10th August, 2020 | *** |
+| BREAK |
 | Day 12| 11th August, 2020 | [Navigation Bar with Smooth Scroll Effect](https://codepen.io/aakrity17/pen/ZEWbWYz) |
 | Day 13| 12th August, 2020 | [Social Media Icons with Awesome  Hover Effect](https://codepen.io/aakrity17/pen/qBZOvGg) |
 | Day 14| 13th August, 2020 | [CSS Text Flip Animation](https://codepen.io/aakrity17/pen/ExKPLmG) |
