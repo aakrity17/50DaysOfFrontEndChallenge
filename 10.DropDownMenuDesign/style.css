@@ -25,7 +25,6 @@ background-image: url(https://images.unsplash.com/photo-1533090161767-e6ffed986c
     margin: 15px;
     padding: 10px;
     letter-spacing: 2px;
-
 }
 .menu-bar ul li a{
     text-decoration: none;
@@ -54,7 +53,6 @@ background:#2bab0d;
 {
     display:block;
     margin: 10px;
-
 }
 .menu-bar ul li:hover .sub-menu-1 ul li
 {
@@ -64,7 +62,6 @@ background:#2bab0d;
     background: transparent;
     border-radius: 0;
     text-align: left;
-
 }
 .menu-bar ul li:hover .sub-menu-1 ul li:last-child
 {
