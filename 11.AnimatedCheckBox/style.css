@@ -24,9 +24,11 @@ input[type="checkbox"]
     cursor: pointer;
 }
 input:checked[type="checkbox"]
+
 {
     background: #00c9fc;
 }
+
 input[type="checkbox"]:before{
     content:'';
     position: absolute;
