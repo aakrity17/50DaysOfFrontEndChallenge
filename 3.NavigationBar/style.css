@@ -38,7 +38,7 @@ ul{
    /* padding-bottom: 15px; */
 }
 li{
-    display: inline-block; /* NevBar lae autai line ma lagxa */
+    display: inline-block; /* NavBar lae autai line ma lagxa */
     letter-spacing: 2px;
     padding-right: 35px;
     transition: 0.5s;
