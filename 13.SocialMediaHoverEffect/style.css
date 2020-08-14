@@ -29,10 +29,13 @@ body{
 .s-m a:hover > i{
     transform:scale(1.2) rotate(740deg);
 }
+
 .fa-facebook-official:hover{
     background-color: #3B5998;
 }
+
 .fa-twitter-square:hover{
+    
     background-color: #00acee;
 }
 .fa-instagram:hover{
