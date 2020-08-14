@@ -6,7 +6,7 @@ body{
     display: flex; /*Autai line ma lagna*/
     height: 100vh;
     background-color: rebeccapurple;
-    align-items: center;/* content ---- centerr*/
+    align-items: center;/* content ---- center*/
      justify-content: center;  /*content lae line center ma lagna*/
 }
 .container{
