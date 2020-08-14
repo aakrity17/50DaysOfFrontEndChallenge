@@ -5,7 +5,6 @@ body {
     font-family:'Roboto';
     text-align:center;
 }
-
 #container {
   color:#999;
   text-transform: uppercase;
@@ -17,18 +16,16 @@ body {
   bottom:45%;
   display:block;
 }
-
 #flip {
   height:50px;
   overflow:hidden;
 }
-
 #flip > div > div {
     color:#fff;
     padding:4px 12px;
     height:45px;
     margin-bottom:45px;
-    display:inline-block;
+   display:inline-block;
 }
 
 #flip div:first-child {
@@ -44,7 +41,6 @@ body {
 #flip div:last-child div {
   background:#DC143C;
 }
-
 @keyframes show {
   0% {margin-top:-270px;}
   5% {margin-top:-180px;}
