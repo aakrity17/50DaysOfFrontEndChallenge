@@ -6,7 +6,7 @@ body {
  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(79,29,253,0.9475140397956058) 50%, rgba(252,176,69,1) 100%);
 }
 a{
-    text-decoration: none;
+  text-decoration: none;
 }
 .search-box{
  position: absolute;
@@ -24,7 +24,6 @@ a{
 .search-box:hover > .search-txt{
     width: 240px;
     padding: 0 6px;
-
 }
 .search-btn{
     color: #e84118;
