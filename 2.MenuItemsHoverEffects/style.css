@@ -5,6 +5,7 @@
     list-style: none;
     font-family: "Open Sans",sans-serif;
   }
+
   body{
     display: flex;
     height: 100vh;
@@ -13,6 +14,7 @@
     justify-content: center;
     text-align: center;
   }
+
   .menu a{
     display: inline-block;
     margin: 30px;
@@ -23,7 +25,9 @@
     font-weight: 600;
     transition: .3s linear;
     position: relative;
+    
   }
+
   .menu a:hover{
     color: #111;
   }
