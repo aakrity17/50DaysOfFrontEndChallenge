@@ -24,13 +24,11 @@ input[type="checkbox"]
     border-radius: 20px;
     box-shadow: inset 0 0 5px rgba(0,0,.2);
     cursor: pointer;
-
 }
 input:checked[type="checkbox"]
 {
     background: #00c9fc;
 }
-
 input[type="checkbox"]:before{
     content:'';
     position: absolute;
