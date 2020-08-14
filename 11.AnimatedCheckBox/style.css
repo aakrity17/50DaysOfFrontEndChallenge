@@ -24,11 +24,9 @@ input[type="checkbox"]
     cursor: pointer;
 }
 input:checked[type="checkbox"]
-
 {
     background: #00c9fc;
 }
-
 input[type="checkbox"]:before{
     content:'';
     position: absolute;
@@ -42,7 +40,6 @@ input[type="checkbox"]:before{
     transform: scale(1.1);
     box-shadow: 0 2px 5px rgba(0,0,.2);
 }
-
 input:checked[type="checkbox"]:before{
     left: 40px;
 }
