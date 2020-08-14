@@ -63,10 +63,10 @@ body{
 	transition: color 5s linear;
   }
 
-  @-webkit-keyframes change {
+  @keyframes change {
 	to {width: 90%;} /*Percentage | */
   }
 
-  @-keyframes change {
+  @keyframes change {
 	to {width: 100%;}
   }
