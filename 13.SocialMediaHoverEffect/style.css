@@ -8,7 +8,7 @@ body{
     height:100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+     align-items: center;
 }
 .s-m{
     margin: 50px;
