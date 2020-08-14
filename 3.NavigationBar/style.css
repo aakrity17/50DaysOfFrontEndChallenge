@@ -25,10 +25,12 @@ h1{
     font-size: 40px;
     letter-spacing: -2px;
 }
+
 span{
     color: #ffffff;
     letter-spacing: 2px;
 }
+
 ul{
     width:auto;
     float: right;
