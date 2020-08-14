@@ -10,7 +10,6 @@ body{
     font-color: rgb(132, 70, 101)
     #844665;
 }
-
 .text{
     font-size: 40px;
     font-weight: 900;
@@ -23,8 +22,7 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     color: blueviolet;
-    font-family: 'Courier New', Courier, monospace;
-    
+    font-family: 'Courier New', Courier, monospace;  
 }
 .box{
     width: 250px;
@@ -36,10 +34,8 @@ body{
     align-item:center;
     justify-content:center;
 }
-
 .text:hover, .box:hover{
-    animation: flipH 1s linear;
-
+   animation: flipH 1s linear;
 }
 
 @keyframes flipV{
@@ -50,7 +46,6 @@ body{
         transform: rotateX(360deg);
     }
 }
-
 @keyframes flipH{
     50%{
         transform: rotateY(180deg);
