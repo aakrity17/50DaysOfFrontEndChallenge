@@ -1,0 +1,72 @@
+body{
+	background: grey;
+	padding: 50px 0;
+	top: -50%;
+	left: -50%;
+	align-items: center;
+	/* position: absolute; */
+	display: flex;
+  }
+
+  .Loading {
+	margin: 0 auto;
+	background: #00163f;
+	width: 400px;
+	height: 34px;
+	box-shadow: 0 0 0 1px rgba(255,255,255,.15);
+	border-radius: 8px;
+	padding: 5px;
+	box-sizing: border-box;
+	position: relative;
+	cursor: pointer;
+  }
+
+
+  .bar-line {
+	height: 100%;
+	background: linear-gradient(to right, red, yellow, green);
+	border-radius: 8px;
+  }
+
+
+  .bar-progress {
+	display: block;
+	border: outset;/*Types : solid,dotted,Dashed,insist etc*/
+	height: 100%;
+	width: 10;
+	box-sizing: border-box;
+	border-radius: 8px ;
+	background: repeating-linear-gradient(90deg, transparent, transparent 5%, #002450 5%, #002450 10%),
+				repeating-linear-gradient(-90deg, transparent, transparent 5%, #002450 5%, #002450 10%);
+	box-shadow: inset 0 3px 0 rgba(255,255,255,.09),
+				inset 0 0 0 1px rgba(230,230,231,.23);
+  }
+
+  .Loading:hover .bar-progress 
+  {
+	-webkit-animation: change 3s forwards;
+	animation: change 3s forwards;
+  }
+  
+  .bar-progress::after {
+	content: attr(data-percent);
+	position: absolute; /*Syntax: static | relative | absolute | sticky | fixed*/
+	width: 100%;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px; /*50*/
+	color: yellow;
+	top: -30px; /*font top space*/
+  }
+
+  .Loading:hover .bar-progress::after {
+	color: rgba(255, 255, 255, 0.795); /*Color of %*/
+	transition: color 5s linear;
+  }
+
+  @-webkit-keyframes change {
+	to {width: 90%;} /*Percentage | */
+  }
+
+  @-keyframes change {
+	to {width: 100%;}
+  }
