@@ -24,7 +24,6 @@ h1{
     color: rgba(255, 123, 0, 0.938);
     font-size: 40px;
     letter-spacing: -2px;
-
 }
 span{
     color: #ffffff;
@@ -34,8 +33,7 @@ ul{
     width:auto;
     float: right;
     margin: 35px;
-    /* padding-bottom: 15px; */
-
+   /* padding-bottom: 15px; */
 }
 li{
     display: inline-block; /* NevBar lae autai line ma lagxa */
