@@ -8,7 +8,6 @@ body{
     justify-content: center;
     font-family: "montserrat",sans-serif;
   }
-  
   .loading{
     width: 200px;
     height: 200px;
@@ -18,7 +17,6 @@ body{
     position: relative;
     animation: a1 2s linear infinite;
   }
-  
   .loading::before,.loading::after{
     content: '';
     width: 200px;
