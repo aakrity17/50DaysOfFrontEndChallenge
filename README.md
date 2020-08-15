@@ -18,3 +18,5 @@ Front-End Projects During the Challenge will be added here...
 | Day 12| 11th August, 2020 | [Navigation Bar with Smooth Scroll Effect](https://codepen.io/aakrity17/pen/ZEWbWYz) |
 | Day 13| 12th August, 2020 | [Social Media Icons with Awesome  Hover Effect](https://codepen.io/aakrity17/pen/qBZOvGg) |
 | Day 14| 13th August, 2020 | [CSS Text Flip Animation](https://codepen.io/aakrity17/pen/ExKPLmG) |
+| Day 14| 14th August, 2020 | [Loading Gradient Animation](https://codepen.io/aakrity17/pen/MWyyYdP) |
+| Day 16| 15th August, 2020 | [Sing Up Form Of Newsletter](https://codepen.io/aakrity17/pen/mdPPqPK) |
