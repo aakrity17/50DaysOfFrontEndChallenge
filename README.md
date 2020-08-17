@@ -20,4 +20,5 @@ Front-End Projects During the Challenge will be added here...
 | Day 14| 13th August, 2020 | [CSS Text Flip Animation](https://codepen.io/aakrity17/pen/ExKPLmG) |
 | Day 15| 14th August, 2020 | [Loading Gradient Animation](https://codepen.io/aakrity17/pen/MWyyYdP) |
 | Day 16| 15th August, 2020 | [Sing Up Form Of Newsletter](https://codepen.io/aakrity17/pen/mdPPqPK) |
-| Day 17| 15th August, 2020 | [Sing Up Form Of Newsletter](https://codepen.io/aakrity17/pen/eYZZXpN) |
+| Day 17| 16th August, 2020 | [Transparent Navigation Bar With Drop Down Menu ](https://codepen.io/aakrity17/pen/eYZZXpN) |
+| Day 18| 17th August, 2020 | [Gooey Loader](https://codepen.io/aakrity17/pen/OJNXPGb) |
