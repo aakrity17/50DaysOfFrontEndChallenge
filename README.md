@@ -22,3 +22,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 16| 15th August, 2020 | [Sing Up Form Of Newsletter](https://codepen.io/aakrity17/pen/mdPPqPK) |
 | Day 17| 16th August, 2020 | [Transparent Navigation Bar With Drop Down Menu ](https://codepen.io/aakrity17/pen/eYZZXpN) |
 | Day 18| 17th August, 2020 | [Gooey Loader](https://codepen.io/aakrity17/pen/OJNXPGb) |
+| Day 19| 18th August, 2020 | [Social Media Hover Effect](https://codepen.io/aakrity17/pen/abNZRLg) |
