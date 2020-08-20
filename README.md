@@ -24,3 +24,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 18| 17th August, 2020 | [Gooey Loader](https://codepen.io/aakrity17/pen/OJNXPGb) |
 | Day 19| 18th August, 2020 | [Social Media Hover Effect](https://codepen.io/aakrity17/pen/abNZRLg) |
 | Day 20| 19th August, 2020 | [Animated Custom Check Box](https://codepen.io/aakrity17/pen/RwaGxEz) |
+| Day 21| 20th August, 2020 | [Simple Blur Text Animation](https://codepen.io/aakrity17/pen/abNmgep) |
