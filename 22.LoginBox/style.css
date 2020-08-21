@@ -135,9 +135,16 @@ box-shadow: bisque;
     font-size: 16px;
     color: #fff;
     outline: none;
+
 }
 .form_wrap input[type="submit"]:hover{
 	background: #8575e7;
+}
+.smiley{
+	width: 200px;
+	font-size: 200px;
+	margin: 0 auto 20px;
+	color: #0e1935;
 }
 
 .error_msg{
