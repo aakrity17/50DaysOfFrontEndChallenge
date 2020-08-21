@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&family=Montserrat:wght@200;400;600&display=swap');
+*{
+font-family: 'Courier New', Courier, monospace;
+list-style: none;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-size:cover ;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    transition: translate(-50%, -50%);
+    background-image: url(https://image.freepik.com/free-photo/five-speckled-quail-eggs-gingerbread-form-flower-yellow-background-easter-concept-top-view_95411-46.jpg);
+    height: 100vh;
+    /* width: 75px; */
+}
+.wrapper{
+    border-radius: 10px;
+    background: #ffffff;
+box-shadow: bisque;
+}
+.header{
+    background: #7b5be4;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+}
+.header .logo p{
+    font-family: monospace;
+	font-size: 24px;
+	font-weight: 600
+}
+.menu ul{
+	display: flex;
+}
+
+.menu ul li{
+	margin-right: 1px;
+}
+
+.menu ul li a{
+	width: 120px;
+	color: #fff;
+	display: block;
+	padding: 22px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.menu ul li:hover,
+.menu ul li.active{
+	background: #8575e7;
+}
+
+.menu ul li:last-child{
+	border-top-right-radius: 3px;
+	margin-right: 0;
+}
+
+.main_container{
+	padding: 50px;
+}
+
+.title{
+	font-size: 28px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.form_wrap{
+    width: 350px;
+    margin: 0 auto 30px;
+
+}
+.font_wrap:last-child{
+    margin-bottom: 0;
+
+}
+.form_wrap:last-child{
+    margin-bottom: 0;
+
+}
+.form_wrap label{
+    display: block;
+    color: #7b5be4;
+    margin-bottom: 10px;
+    font-weight: 200;
+
+}
+
+.form_wrap .input_field{
+    position: relative;
+}
+
+.form_wrap .input_field .input{
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px;
+    padding-left: 45px;
+    font-style: 14px;
+    color: #7b5be4;
+    border: 1px solid #8c94ae;
+}
+
+.form_wrap .input_field .input:focus{
+    border: 1px solid #77bb55;
+}
+.form_wrap input[type="submit"]{
+	border: 0;
+	background: #7b5be4;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-radius: 3px;
+	cursor: pointer;
+	font-size: 16px;
+	color: #fff;
+	outline: none;
+}
+.form_wrap input[type="submit"]
+{
+    border: 0;
+    background: #8575e7;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    outline: none;
+}
+.form_wrap input[type="submit"]:hover{
+	background: #8575e7;
+}
+
+.error_msg{
+	margin-top: 10px;
+	color: #ff8471;
+}
+
+.form_wrap .input_field i{
+	position: absolute;
+	top: 13px;
+	left: 15px;
+	font-size: 16px;
+	color: #7b5be4;
+}
+
+.smiley{
+	width: 200px;
+	font-size: 200px;
+	margin: 0 auto 20px;
+	color: #0e1935;
+}
+
+
+
+
+

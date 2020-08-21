@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+
+<div class="wrapper">
+    <div class="header">
+        <div class="logo">
+            <p>Hello World !!</p>
+        </div>
+        <div class="menu">
+
+
+            <ul>
+                <li class="active"><a>Login</a>
+                </li>
+                <li><a>About us</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="main_container">
+        <div class="main_item login_wrap">
+            <div class="title">Nice To See You Again !!</div>
+            <div class="form">
+                
+				<form action="" method="post" onsubmit="return validate();">
+					<div class="form_wrap">
+						<label for="uname">Username</label>
+						<div class="input_field">
+							<input type="text" class="input" name="username" id="uname">
+							<i class="fas fa-user"></i>
+						</div>
+						<div class="error_msg" id="un_err_msg">
+							
+						</div>
+					</div>
+					<div class="form_wrap">
+						<label for="password">Password</label>
+						<div class="input_field">
+							<input type="password" class="input" name="password" id="password">
+							<i class="fas fa-key"></i>
+						</div>
+						<div class="error_msg" id="pw_err_msg">
+							
+						</div>
+					</div>
+					<div class="form_wrap">
+						<input type="submit" value="Login">
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="main_item aboutus" style="display: none;">
+			<div class="title">About us</div>
+			<div class="content">
+        </div>
+    </div>
+</div>
+</body>
+</html>
