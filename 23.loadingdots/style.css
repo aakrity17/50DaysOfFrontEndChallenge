@@ -59,6 +59,7 @@ p{
         transform: scale(0);
         transform: translateY(20px);
     }
+    
 }
 @keyframes spanimation{
     50%{
