@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/proxy/ZnYPKK6c0naMHGwlKBlLw4yAQ4NJqLS9GpH7b0hxuxlsBlZ4pLZgYHHAYvPOW_CxIbRFV8t9spMEqEesXJCumkCiVrEXdH0a_0K0QVFPLpDN2CtFf5tE);
+    background-image: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: fit-content;
+    background-size: cover;
+    /* box-sizing: border-box; */
+    background-position: center;
+    font-weight:400;
+    background-image:cover;
+    
+    }
+
+    a{
+        text-align:center;
+        text-decoration: none;
+    }
+
+ol{margin:0;
+    padding:0;
+    list-style-type:none}
+
+.menu{
+	width:100%;
+	padding:0 16px;
+	display:block;
+	position:relative
+	}
+
+.menu > ol:first-child{
+	width:100%;
+	display:flex;
+	position:relative;
+	flex-flow:row wrap;
+	justify-content:center
+	}
+
+.menu-item{
+	width:150px;
+	position:relative;
+	perspective:100%;
+	cursor:pointer
+	}
+
+.menu-item a{
+	width:100%;
+	padding:16px 0;
+	display:block;
+	position:relative;
+	color:#fff;
+	border-radius:4px;
+	transition:all .5s ease;
+	transform-style:preserve-3d
+	}
+
+.menu-item a:before{
+	width:100%;
+	padding:16px 0;
+	display:block;
+	position:absolute;
+	color:#000;
+	border-radius:4px
+	}
+
+.menu > ol:first-child > .menu-item{display:block}
+
+.menu > ol:first-child > .menu-item > a
+	{background:#000;box-shadow:0 8px 6px -6px #595959}
+
+.menu > ol:first-child > .menu-item:nth-of-type(2) > a,
+.menu > ol:first-child > .menu-item:nth-of-type(4) > a
+	{border-left:1px solid #fff;border-right:1px solid #fff}
+
+.menu > ol:first-child > .menu-item > a:before
+	{background:#ff9900;bottom:90%;transform:rotateX(-90deg) translate3d(0,0,75px)}
+
+.menu > ol:first-child > .menu-item:nth-of-type(1) > a:before{content:"Home"}
+.menu > ol:first-child > .menu-item:nth-of-type(2) > a:before{content:"Investors"}
+.menu > ol:first-child > .menu-item:nth-of-type(3) > a:before{content:"Services"}
+.menu > ol:first-child > .menu-item:nth-of-type(4) > a:before{content:"About Us"}
+.menu > ol:first-child > .menu-item:nth-of-type(5) > a:before{content:"Contact"}
+.menu > ol:first-child > .menu-item:nth-of-type(6) > a:before{content:"Leadership"}
+
+.menu > ol:first-child > .menu-item:nth-of-type(3) > a:after,
+.menu > ol:first-child > .menu-item:nth-of-type(4) > a:after{
+	content:"\0025BE";
+	width:100%;
+	padding:30px 0 0 0;
+	top:0;
+	display:block;
+	position:absolute;
+	color:#fff;
+	font-size:20px;
+	text-align:center
+	}
+
+.menu > ol:first-child > .menu-item:hover > a{transform:rotateX(90deg)}
+
+.menu > ol:first-child > .menu-item:nth-of-type(3):hover > a:after,
+.menu > ol:first-child > .menu-item:nth-of-type(4):hover > a:after
+	{content:"\0025B4";color:#000;transform:rotateX(-90deg) translate3d(0,0,75px)}
+
+.sub-menu{
+	background:#fff;
+	width:100%;
+	top:51px;
+	display:none;
+	position:absolute;
+	z-index:99;
+	border-top:1px solid #fff
+	}
+
+.sub-menu > .menu-item:nth-of-type(1){animation:fadein-down .5s .2s ease both}
+.sub-menu > .menu-item:nth-of-type(2){animation:fadein-down .7s .2s ease both}
+.sub-menu > .menu-item:nth-of-type(3){animation:fadein-down .9s .2s ease both}
+
+@keyframes fadein-down{
+	from{display:none;opacity:0;transform:translateY(-10px)}
+	to{display:block;opacity:1;transform:translateY(0)}
+	}
+
+.sub-menu > .menu-item > a{background:#008080}
+
+.sub-menu > .menu-item:nth-of-type(2) > a
+	{border-top:1px solid #fff;border-bottom:1px solid #fff}
+
+.sub-menu > .menu-item > a:before
+	{background:#bc003b;top:0}
+
+.menu > ol:first-child > .menu-item:nth-of-type(3) > .sub-menu > .menu-item > a:before{transform:rotateY(-90deg) translate3d(0,0,75px)}
+.menu > ol:first-child > .menu-item:nth-of-type(3) > .sub-menu > .menu-item:nth-of-type(1) > a:before{content:"Web Design"}
+.menu > ol:first-child > .menu-item:nth-of-type(3) > .sub-menu > .menu-item:nth-of-type(2) > a:before{content:"App Development"}
+.menu > ol:first-child > .menu-item:nth-of-type(3) > .sub-menu > .menu-item:nth-of-type(3) > a:before{content:"eCommerce"}
+.menu > ol:first-child > .menu-item:nth-of-type(3) > .sub-menu > .menu-item:hover > a{transform:rotateY(90deg)}
+
+.menu > ol:first-child > .menu-item:nth-of-type(4) > .sub-menu > .menu-item > a:before{transform:rotateY(90deg) translate3d(0,0,75px)}
+.menu > ol:first-child > .menu-item:nth-of-type(4) > .sub-menu > .menu-item:nth-of-type(1) > a:before{content:"Mission"}
+.menu > ol:first-child > .menu-item:nth-of-type(4) > .sub-menu > .menu-item:nth-of-type(2) > a:before{content:"Vision"}
+.menu > ol:first-child > .menu-item:nth-of-type(4) > .sub-menu > .menu-item:nth-of-type(3) > a:before{content:"Team"}
+.menu > ol:first-child > .menu-item:nth-of-type(4) > .sub-menu > .menu-item:hover > a{transform:rotateY(-90deg)}
+
+.menu > ol:first-child > .menu-item:hover > .sub-menu{display:block}
+
+@media screen and (min-width:321px) and (max-width:799px){
+	.menu{width:320px;margin:auto}
+	}
+
+@media (max-width:799px){
+	.menu > ol:first-child > .menu-item{width:100%}
+	.menu > ol:first-child > .menu-item > a{box-shadow:none}
+	
+	.menu > ol:first-child > .menu-item:nth-of-type(2) > a,
+	.menu > ol:first-child > .menu-item:nth-of-type(4) > a
+		{border:1px solid #fff;border-left:none;border-right:none}
+	
+	.sub-menu > .menu-item{margin:auto}
+	}
