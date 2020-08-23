@@ -27,5 +27,6 @@ Front-End Projects During the Challenge will be added here...
 | Day 21| 20th August, 2020 | [Simple Blur Text Animation](https://codepen.io/aakrity17/pen/abNmgep) |
 | Day 22| 21th August, 2020 | [Login Box](https://codepen.io/aakrity17/pen/abNBGzB) |
 | Day 23| 22th August, 2020 | [Loading Animation](https://codepen.io/aakrity17/pen/wvGobgM)|
+| Day 23| 22th August, 2020 | [3D Responsive Navigatio Menu ](https://codepen.io/aakrity17/pen/PoNWprv)|
 
 
