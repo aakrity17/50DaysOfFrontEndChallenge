@@ -64,6 +64,7 @@ label {
 	color: #fff;
 	transition: 0.2s all ease;
 }
+
 .box input[type="submit"]:hover {
 	background: #50ff67;
 	transform: translateY(-2px);
