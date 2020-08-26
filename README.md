@@ -30,3 +30,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 23 | 22th August, 2020 |                [Loading Animation](https://codepen.io/aakrity17/pen/wvGobgM)                |
 | Day 24 | 23th August, 2020 |          [3D Responsive Navigatio Menu](https://codepen.io/aakrity17/pen/PoNWprv)           |
 | Day 25 | 24th August, 2020 |                 [UI Card Design ](https://codepen.io/aakrity17/pen/NWNdebe)                 |
+| Day 26 | 25th August, 2020 |          [Cool Animated Search Feature ](https://codepen.io/aakrity17/pen/NWNdebe)          |
