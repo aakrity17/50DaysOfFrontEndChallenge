@@ -31,3 +31,5 @@ Front-End Projects During the Challenge will be added here...
 | Day 24 | 23th August, 2020 |          [3D Responsive Navigatio Menu](https://codepen.io/aakrity17/pen/PoNWprv)           |
 | Day 25 | 24th August, 2020 |                 [UI Card Design ](https://codepen.io/aakrity17/pen/NWNdebe)                 |
 | Day 27 | 26th August, 2020 |                 [Cool Contact Us](https://codepen.io/aakrity17/pen/xxVqoPB)                 |
+| Day 28 | 27th August, 2020 |                  [Hover Effecs](https://codepen.io/aakrity17/pen/xxVqoPB)                   |
+| Day 26 | 25th August, 2020 |          [Cool Animated Search Feature](https://codepen.io/aakrity17/pen/oNxZPzz)           |
