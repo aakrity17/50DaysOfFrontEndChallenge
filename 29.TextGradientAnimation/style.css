@@ -1,0 +1,221 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+	/* 1 rem == 10px */
+}
+body {
+	background-color: azure;
+	height: 100vh;
+	width: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h1 {
+	font-size: 8rem;
+	background: linear-gradient(
+		90deg,
+		rgba(29, 253, 130, 1) 8%,
+		rgba(10, 99, 12, 1) 18%,
+		rgba(192, 112, 124, 1) 25%,
+		rgba(148, 62, 81, 1) 31%,
+		rgba(224, 85, 123, 1) 40%,
+		rgba(151, 102, 182, 1) 46%,
+		rgba(90, 117, 232, 1) 51%,
+		rgba(79, 72, 177, 1) 60%,
+		rgba(62, 7, 97, 1) 73%,
+		rgba(96, 105, 241, 1) 88%,
+		rgba(252, 176, 69, 1) 99%
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+	animation: gradient 1s linear infinite;
+}
+@keyframes gradient {
+	0%,
+	100% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	10% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	20% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	30% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	40% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	50% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	60% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	70% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	80% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(29, 253, 130, 1) 8%,
+			rgba(252, 176, 69, 1) 99%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	90% {
+		background: linear-gradient(
+			90deg,
+			rgba(10, 99, 12, 1) 18%,
+			rgba(192, 112, 124, 1) 25%,
+			rgba(148, 62, 81, 1) 31%,
+			rgba(224, 85, 123, 1) 40%,
+			rgba(151, 102, 182, 1) 46%,
+			rgba(90, 117, 232, 1) 51%,
+			rgba(79, 72, 177, 1) 60%,
+			rgba(62, 7, 97, 1) 73%,
+			rgba(96, 105, 241, 1) 88%,
+			rgba(252, 176, 69, 1) 99%,
+			rgba(29, 253, 130, 1) 8%
+		);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+}
