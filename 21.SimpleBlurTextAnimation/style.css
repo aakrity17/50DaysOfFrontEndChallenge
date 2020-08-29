@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	height: 100vh;
+	font-family: fantasy;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: rgb(238, 238, 238);
+}
+p {
+	font-size: 200px;
+	animation: txtanimation 5s ease-in-out infinite;
+	text-transform: uppercase;
+}
+::selection {
+	background-color: rgb(37, 37, 37);
+	color: #dddddd;
+}
+@keyframes txtanimation {
+	0% {
+		transform: scale(1);
+	}
+	50% {
+		filter: blur(10px);
+		transform: scale(1.1);
+	}
+}
