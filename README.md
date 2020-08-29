@@ -34,4 +34,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 27 | 26th August, 2020 |                 [Cool Contact Us](https://codepen.io/aakrity17/pen/xxVqoPB)                 |
 | Day 28 | 27th August, 2020 |                  [ Hover Effect](https://codepen.io/aakrity17/pen/xxVqoPB)                  |
 | Day 29 | 28th August, 2020 |            [ Text Gradient Animation](https://codepen.io/aakrity17/pen/KKzqPQw)             |
-| Day 30 | 29th August, 2020 |          [ Glow Animation Hover Effect](https://codepen.io/aakrity17/pen/KKzqPQw)           |
+| Day 30 | 29th August, 2020 |          [ Glow Animation Hover Effect](https://codepen.io/aakrity17/pen/poywpeK)           |
