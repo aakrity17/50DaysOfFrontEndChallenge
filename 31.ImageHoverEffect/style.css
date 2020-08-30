@@ -7,8 +7,7 @@
 
 body {
 	background-color: #a3d9db;
-	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .container {
@@ -91,15 +90,12 @@ body {
 	opacity: 0;
 	transition: 300ms all;
 }
-
 .box1:hover .text1 {
 	opacity: 0.9;
 }
-
 .box1:hover img {
 	transform: scale(1.1);
 }
-
 .text2 {
 	width: 100%;
 	height: 100%;
@@ -137,4 +133,7 @@ body {
 
 .box3:hover .text3 {
 	left: 0;
+	font: 60px
+	color:black;
+	;
 }
