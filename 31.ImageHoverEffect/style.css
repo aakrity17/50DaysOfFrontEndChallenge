@@ -1,0 +1,140 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #a3d9db;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.container {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.box1 {
+	width: 300px;
+	height: 300px;
+	border: 4px solid black;
+	margin-right: 30px;
+	background-color: #000;
+	box-shadow: 5px 10px 8px 10px #888888;
+	overflow: hidden;
+	cursor: pointer;
+	position: relative;
+}
+.box1:hover {
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+}
+
+.box2 {
+	width: 300px;
+	height: 300px;
+	border: 4px solid black;
+	box-shadow: 5px 10px 8px 10px #888888;
+	margin-right: 30px;
+	background-color: #000;
+	overflow: hidden;
+	cursor: pointer;
+
+	position: relative;
+}
+
+.box3 {
+	width: 300px;
+	height: 300px;
+	box-shadow: 5px 10px;
+	border: 5px solid black;
+	cursor: pointer;
+
+	background-color: #000;
+	overflow: hidden;
+	box-shadow: 5px 10px 8px 10px #888888;
+	position: relative;
+}
+
+.box1 img {
+	width: 100%;
+	height: 100%;
+}
+
+.box2 img {
+	width: 100%;
+	height: 100%;
+}
+
+.box3 img {
+	width: 100%;
+	height: 100%;
+}
+
+.text1 {
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: #fff;
+	opacity: 0;
+	transition: 300ms all;
+}
+
+.box1:hover .text1 {
+	opacity: 0.9;
+}
+
+.box1:hover img {
+	transform: scale(1.1);
+}
+
+.text2 {
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	position: absolute;
+	left: 0;
+	top: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: #fff;
+	transition: 400ms all;
+}
+
+.box2:hover .text2 {
+	top: 0%;
+}
+
+.text3 {
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	position: absolute;
+	left: 100%;
+	top: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: #fff;
+	opacity: 0.9;
+	transition: 400ms all;
+}
+
+.box3:hover .text3 {
+	left: 0;
+}
