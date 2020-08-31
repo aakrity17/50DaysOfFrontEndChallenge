@@ -27,12 +27,12 @@ Front-End Projects During the Challenge will be added here...
 | Day 20 | 19th August, 2020 |            [Animated Custom Check Box](https://codepen.io/aakrity17/pen/RwaGxEz)            |
 | Day 21 | 20th August, 2020 |           [Simple Blur Text Animation](https://codepen.io/aakrity17/pen/abNmgep)            |
 | Day 22 | 21th August, 2020 |                    [Login Box](https://codepen.io/aakrity17/pen/abNBGzB)                    |
-| Day 23 | 22th August, 2020 |                [Loading Animation](https://codepen.io/aakrity17/pen/wvGobgM)                |
+| Day 23 | 22th August, 2020 |                [Loading Animation](https://codepen.io/aakrity17/pen/NWNbVdr)                |
 | Day 24 | 23th August, 2020 |          [3D Responsive Navigatio Menu](https://codepen.io/aakrity17/pen/PoNWprv)           |
 | Day 25 | 24th August, 2020 |                 [UI Card Design ](https://codepen.io/aakrity17/pen/NWNdebe)                 |
 | Day 26 | 25th August, 2020 |          [Cool Animated Search Feature](https://codepen.io/aakrity17/pen/oNxZPzz)           |
 | Day 27 | 26th August, 2020 |                 [Cool Contact Us](https://codepen.io/aakrity17/pen/xxVqoPB)                 |
-| Day 28 | 27th August, 2020 |                  [ Hover Effect](https://codepen.io/aakrity17/pen/xxVqoPB)                  |
+| Day 28 | 27th August, 2020 |                  [ Hover Effect](https://codepen.io/aakrity17/pen/xxVdYqr)                  |
 | Day 29 | 28th August, 2020 |            [ Text Gradient Animation](https://codepen.io/aakrity17/pen/KKzqPQw)             |
 | Day 30 | 29th August, 2020 |          [ Glow Animation Hover Effect](https://codepen.io/aakrity17/pen/poywpeK)           |
 | Day 31 | 30th August, 2020 |          [ Image with Text Hover Effect](https://codepen.io/aakrity17/pen/gOrRQXY)          |
