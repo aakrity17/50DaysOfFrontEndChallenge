@@ -3,7 +3,6 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-
 body {
 	background-color: rgb(243, 243, 243);
 	height: 100vh;
@@ -28,7 +27,6 @@ nav {
 	width: 300px;
 	padding: 20px;
 }
-
 nav,
 ul,
 li {
