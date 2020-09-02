@@ -37,3 +37,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 30 | 29th August, 2020 |                   [ Glow Animation Hover Effect](https://codepen.io/aakrity17/pen/poywpeK)                    |
 | Day 31 | 30th August, 2020 |                   [ Image with Text Hover Effect](https://codepen.io/aakrity17/pen/gOrRQXY)                   |
 | Day 32 | 31th August, 2020 | [ Top 10 Programming Languages Container with Awesome hover effect](https://codepen.io/aakrity17/pen/dyMzEym) |
+| Day 33 | 2 September, 2020 |                   [ Momentum Home Screen Clone ](https://codepen.io/aakrity17/pen/LYNzeZM)                    |
