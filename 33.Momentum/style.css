@@ -4,11 +4,11 @@
 	box-sizing: border-box;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
+	/* This sets the value of 1rem as 10px... */
 	color: aliceblue;
 }
 body {
 	height: 100vh;
-	/* background-color: red; */
 	background-image: url(https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
 	background-size: cover;
 	background-position: center;
@@ -38,12 +38,12 @@ body {
 }
 .footer input {
 	width: 700px;
-	margin-top: 10px;
+	margin-top: 1rem;
 	background-color: transparent;
 	outline: none;
 	border: none;
 	font-size: 3rem;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #ffffff;
 }
 footer {
 	font-size: 1.5rem;

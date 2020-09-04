@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	height: 100vh;
+	background: #fff;
+}
+.container {
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.container .logo {
+	height: 80px;
+	width: auto;
+}
+.container i {
+	position: absolute;
+	left: 110px;
+	height: 70px;
+	width: 80px;
+	background-color: #0077b5;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 60px;
+	color: #fff;
+	border-radius: 5px;
+}
+
+.loader {
+	height: 5px;
+	width: 300px;
+	background: #e8e8e8;
+	margin-top: 40px;
+}
+.loader .inner {
+	width: 100%;
+	height: inherit;
+	animation: slide 3s ease-in-out infinite;
+	background: #0077b5;
+}
+@keyframes slide {
+	0% {
+		transform-origin: left;
+		transform: scalex(0.3);
+	}
+	25% {
+		transform-origin: left;
+		transform: scalex(1);
+	}
+	26% {
+		transform-origin: right;
+		transform: scalex(1);
+	}
+	50% {
+		transform-origin: right;
+		transform: scalex(0.3);
+	}
+	75% {
+		transform-origin: right;
+		transform: scalex(1);
+	}
+	76% {
+		transform-origin: left;
+		transform: scalex(1);
+	}
+	100% {
+		transform-origin: left;
+		transform: scalex(0.3);
+	}
+}
