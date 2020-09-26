@@ -52,19 +52,15 @@ body {
 	height: 100%;
 	transition: all 0.5s ease;
 }
-
 .btn1:before {
 	top: -50px;
 }
-
 .btn2:before {
 	left: -225px;
 }
-
 .btn3:before {
 	left: 225px;
 }
-
 .btn4:before {
 	top: 50px;
 }
@@ -73,13 +69,11 @@ body {
 	color: #00bfb6;
 	transition: all 0.5s ease;
 }
-
 .btn1:hover:before,
 .btn4:hover:before {
 	top: 0px;
 	transition: all 0.5s ease;
 }
-
 .btn2:hover:before,
 .btn3:hover:before {
 	left: 0px;
