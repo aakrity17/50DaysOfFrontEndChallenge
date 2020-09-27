@@ -1,15 +1,17 @@
+/* Performing universal reset */
 * {
-	padding: 0;
 	margin: 0;
+	padding: 0;
 	box-sizing: border-box;
 }
 body {
 	height: 100vh;
-	background-color: black;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	background-color: #444;
+	font-family: Arial, Helvetica, sans-serif;
+	/* Centering things */
 	display: flex;
-	justify-content: center;
 	align-items: center;
+	justify-content: center;
 }
 a {
 	position: relative;
@@ -26,8 +28,8 @@ a::before {
 	left: 2px;
 	width: 10px;
 	height: 10px;
-	border-bottom: 2px dotted #b3da26; /*Left side button*/
-	border-left: 2px dotted #b3da26; /*Left side top*/
+	border-bottom: 2px dotted #b3da26;
+	border-left: 2px dotted #b2da26;
 }
 a::after {
 	content: "";
@@ -36,14 +38,8 @@ a::after {
 	right: 2px;
 	width: 10px;
 	height: 10px;
-	border-top: 2px dotted #39b819;
-	border-right: 2px dotted #72b31d;
-}
-a:hover {
-	background-color: #2a80b3;
-	box-shadow: 0px 0px 30px #2a80b3;
-	color: black;
-	transition: all 0.3s ease-in-out 0.3s;
+	border-top: 2px dotted #b3da26;
+	border-right: 2px dotted #b2da26;
 }
 a:hover::before,
 a:hover::after {
@@ -52,7 +48,9 @@ a:hover::after {
 	transition: all 0.5s ease-in-out;
 }
 a:hover {
-	color: white;
+	color: #fff;
 	font-size: 30px;
-	background: #eb7343;
+	background-color: #2a80b3;
+	box-shadow: 0px 0px 30px #72b31d;
+	transition: all 0.3s ease-in-out 0.3s;
 }

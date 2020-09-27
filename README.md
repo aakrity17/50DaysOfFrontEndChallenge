@@ -41,3 +41,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 34 | 4 September, 2020  |                    [ Linkedin Loader Animation ](https://codepen.io/aakrity17/pen/dyMZmgm)                    |
 | Day 35 | 6 September, 2020  |                       [ Google Sign up Form ](https://codepen.io/aakrity17/pen/eYZyGJr)                       |
 | Day 36 | 11 September, 2020 |                     [ Portfolio Landing Page ](https://codepen.io/aakrity17/pen/XWdqNwq)                      |
+| Day 39 | 27 September, 2020 |                     [ Glowing Hover Me Button ](https://codepen.io/aakrity17/pen/qBZwBvb)                     |
