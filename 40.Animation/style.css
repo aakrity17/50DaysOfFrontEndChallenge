@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	position: relative;
+	height: 100vh;
+	background-image: url(./city.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100vw;
+}
+.bird__container {
+	position: absolute;
+	animation: fly 10s infinite ease-in-out;
+}
+.bird-img {
+	height: 50px;
+}
+.road__container {
+	position: absolute;
+	bottom: 0;
+}
+.road-img {
+	width: 100vw;
+	height: 100px;
+}
+.bus__container {
+	position: absolute;
+	bottom: 40px;
+	animation-name: bus;
+	animation-duration: 15s;
+	animation-iteration-count: infinite;
+}
+@keyframes fly {
+	0% {
+		transform: translateX(-200px);
+	}
+	/* 30% {
+		transform: translateX(150px);
+	}
+	66% {
+		transform: translate(435px, 420px);
+	} */
+	100% {
+		transform: translateX(1100px);
+	}
+}
+@keyframes bus {
+	0% {
+		transform: translateX(-200px);
+	}
+	50% {
+		transform: translateX(1100px);
+	}
+	100% {
+		transform: translateX(-200px);
+		transform: scaleX(-1);
+	}
+}
