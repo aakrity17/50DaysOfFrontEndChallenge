@@ -43,6 +43,6 @@ Front-End Projects During the Challenge will be added here...
 | Day 36 |  11 September, 2020  |                     [ Portfolio Landing Page ](https://codepen.io/aakrity17/pen/XWdqNwq)                      |
 | Day 37 | 20th September, 2020 |                     [Image Slide Animation](https://codepen.io/aakrity17/details/bGpNYjo)                     |
 | Day 38 | 22th September, 2020 |                         [Loading Animation](https://codepen.io/aakrity17/pen/NWNbVdr)                         |
-| Day 39 |  27 September, 2020  |                     [ Glowing Hover Me Button ](https://codepen.io/aakrity17/pen/qBZwBvb)                     |
-| Day 40 |  29 September, 2020  |                                              [ Bus Animation ]()                                              |
+| Day 39 |  27 September, 2020  |                                         [ Glowing Hover Me Button ]()                                         |
+| Day 40 |  29 September, 2020  |                                [ Bus Animation ](https://youtu.be/5wZ8UOexPMw)                                |
 | Day 41 |     03 Oct, 2020     |                         [ Awesome Gradient Animation ](https://youtu.be/hkwxmGLb3n8)                          |
