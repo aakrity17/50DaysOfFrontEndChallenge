@@ -38,11 +38,11 @@ Front-End Projects During the Challenge will be added here...
 | Day 31 |  30th August, 2020   |                   [ Image with Text Hover Effect](https://codepen.io/aakrity17/pen/gOrRQXY)                   |
 | Day 32 |  31th August, 2020   | [ Top 10 Programming Languages Container with Awesome hover effect](https://codepen.io/aakrity17/pen/dyMzEym) |
 | Day 33 |  2 September, 2020   |                   [ Momentum Home Screen Clone ](https://codepen.io/aakrity17/pen/LYNzeZM)                    |
-| Day 34 |  4 September, 2020   |                    [ Linkedin Loader Animation ](https://codepen.io/aakrity17/pen/dyMZmgm)                    |
-| Day 35 |  6 September, 2020   |                       [ Google Sign up Form ](https://codepen.io/aakrity17/pen/eYZyGJr)                       |
+| Day 34 |  4 September, 2020   |                          [ Linkedin Loader Animation ](https://youtu.be/pPjEE6ulQSE)                          |
+| Day 35 |  6 September, 2020   |                             [ Google Sign up Form ](https://youtu.be/6Gp6QMNru2c)                             |
 | Day 36 |  11 September, 2020  |                     [ Portfolio Landing Page ](https://codepen.io/aakrity17/pen/XWdqNwq)                      |
 | Day 37 | 20th September, 2020 |                     [Image Slide Animation](https://codepen.io/aakrity17/details/bGpNYjo)                     |
-| Day 38 | 22th September, 2020 |                         [Loading Animation](https://codepen.io/aakrity17/pen/NWNbVdr)                         |
-| Day 39 |  27 September, 2020  |                                         [ Glowing Hover Me Button ]()                                         |
+| Day 38 | 22th September, 2020 |                       [Bouncing Balls Loading Animation](https://youtu.be/OWXuuszFoBs)                        |
+| Day 39 |  27 September, 2020  |                           [ Glowing Hover Me Button ](https://youtu.be/o-KY7t6VB-k)                           |
 | Day 40 |  29 September, 2020  |                                [ Bus Animation ](https://youtu.be/5wZ8UOexPMw)                                |
 | Day 41 |     03 Oct, 2020     |                         [ Awesome Gradient Animation ](https://youtu.be/hkwxmGLb3n8)                          |
