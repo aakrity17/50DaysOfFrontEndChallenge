@@ -46,4 +46,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 39 |  27 September, 2020  |                           [ Glowing Hover Me Button ](https://youtu.be/o-KY7t6VB-k)                           |
 | Day 40 |  29 September, 2020  |                                [ Bus Animation ](https://youtu.be/5wZ8UOexPMw)                                |
 | Day 41 |     03 Oct, 2020     |                         [ Awesome Gradient Animation ](https://youtu.be/hkwxmGLb3n8)                          |
-| Day 42 |     04 Oct, 2020     |                            [ Heart Beat Animation ](https://youtu.be/hkwxmGLb3n8)                             |
+| Day 42 |     04 Oct, 2020     |                            [ Heart Beat Animation ](https://youtu.be/w2AJB9NtOlA)                             |
