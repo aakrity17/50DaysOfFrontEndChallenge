@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.main img {
+	width: 200px;
+	height: 200px;
+	transform: translate(-50%, -50%);
+	left: 50%;
+	position: absolute;
+	justify-content: center;
+	display: flex;
+	top: 50%;
+	cursor: pointer;
+}
+.Love {
+	transition-property: width, height;
+	transition-duration: 2s;
+}
+.Love:hover {
+	width: 300px;
+	height: 300px;
+}
+body {
+	background: black;
+}
