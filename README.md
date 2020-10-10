@@ -48,6 +48,7 @@ Front-End Projects During the Challenge will be added here...
 | Day 41 |     03 Oct, 2020     |                         [ Awesome Gradient Animation ](https://youtu.be/hkwxmGLb3n8)                          |
 | Day 42 |     04 Oct, 2020     |                            [ Heart Beat Animation ](https://youtu.be/w2AJB9NtOlA)                             |
 | Day 44 |     08 Oct, 2020     |                           [ NewsLetter Sign Up Form](https://youtu.be/w4eCojYnrBY)                            |
-| Day 43 |     10 Oct, 2020     |                                  [ 3d Design](https://youtu.be/EG3S6eoWlqY)                                   |
-| Day 45 |     11 Oct, 2020     |                             [ Diamond](https://codepen.io/aakrity17/pen/abZOodR)                              |
-| Day 46 |     12 Oct, 2020     |                           [ scalene Left](https://codepen.io/aakrity17/pen/abZOodR)                           |
+| Day 45 |     10 Oct, 2020     |                                  [ 3d Design](https://youtu.be/EG3S6eoWlqY)                                   |
+| Day 46 |     11 Oct, 2020     |                             [ Diamond](https://codepen.io/aakrity17/pen/abZOodR)                              |
+| Day 47 |     12 Oct, 2020     |                           [ scalene Left](https://codepen.io/aakrity17/pen/abZOodR)                           |
+| Day 48 |     13 Oct, 2020     |                           [ Image Cross ](https://codepen.io/aakrity17/pen/YzWXKxP)                           |
