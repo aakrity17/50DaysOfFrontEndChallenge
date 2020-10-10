@@ -49,3 +49,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 42 |     04 Oct, 2020     |                            [ Heart Beat Animation ](https://youtu.be/w2AJB9NtOlA)                             |
 | Day 43 |     05 Oct, 2020     |                                  [ 3d Design](https://youtu.be/EG3S6eoWlqY)                                   |
 | Day 44 |     08 Oct, 2020     |                           [ NewsLetter Sign Up Form](https://youtu.be/w4eCojYnrBY)                            |
+| Day 45 |     08 Oct, 2020     |                             [ Diamond](https://codepen.io/aakrity17/pen/abZOodR)                              |
