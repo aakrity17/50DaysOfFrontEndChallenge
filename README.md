@@ -52,3 +52,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 45 |     11 Oct, 2020     |                             [ Diamond](https://codepen.io/aakrity17/pen/abZOodR)                              |
 | Day 46 |     12 Oct, 2020     |                           [ scalene Left](https://codepen.io/aakrity17/pen/abZOodR)                           |
 | Day 47 |     13 Oct, 2020     |                           [ Image Cross ](https://codepen.io/aakrity17/pen/YzWXKxP)                           |
+| Day 48 |     14 Oct, 2020     |                             [ Trianle ](https://codepen.io/aakrity17/pen/YzWXKxP)                             |
