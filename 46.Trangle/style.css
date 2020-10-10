@@ -1,0 +1,18 @@
+div {
+	width: 280px;
+	height: 280px;
+	background: #1e90ff;
+	-webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+	clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
+}
+
+/* Center the demo */
+html,
+body {
+	height: 100%;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

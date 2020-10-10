@@ -47,5 +47,5 @@ Front-End Projects During the Challenge will be added here...
 | Day 40 |  29 September, 2020  |                                [ Bus Animation ](https://youtu.be/5wZ8UOexPMw)                                |
 | Day 41 |     03 Oct, 2020     |                         [ Awesome Gradient Animation ](https://youtu.be/hkwxmGLb3n8)                          |
 | Day 42 |     04 Oct, 2020     |                            [ Heart Beat Animation ](https://youtu.be/w2AJB9NtOlA)                             |
-| Day 43 |     05 Oct, 2020     |                                  [ 3d Design](https://youtu.be/w2AJB9NtOlA)                                   |
+| Day 43 |     05 Oct, 2020     |                                  [ 3d Design](https://youtu.be/EG3S6eoWlqY)                                   |
 | Day 44 |     08 Oct, 2020     |                           [ NewsLetter Sign Up Form](https://youtu.be/w4eCojYnrBY)                            |
