@@ -14,7 +14,6 @@ body {
 	grid-template-rows: 100px 80px 60px 40px;
 	grid-template-columns: repeat(3, 220px) 160px;
 	grid-gap: 10px 10px;
-	/* margin: 150px auto; */
 	border: 1px solid grey;
 }
 .header {
