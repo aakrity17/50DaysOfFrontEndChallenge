@@ -38,20 +38,20 @@ Front-End Projects During the Challenge will be added here...
 | Day 31 |  30th August, 2020   |                   [ Image with Text Hover Effect](https://codepen.io/aakrity17/pen/gOrRQXY)                   |
 | Day 32 |  31th August, 2020   | [ Top 10 Programming Languages Container with Awesome hover effect](https://codepen.io/aakrity17/pen/dyMzEym) |
 | Day 33 |  2 September, 2020   |                   [ Momentum Home Screen Clone ](https://codepen.io/aakrity17/pen/LYNzeZM)                    |
-| Day 34 |  4 September, 2020   |                          [ Linkedin Loader Animation ](https://youtu.be/pPjEE6ulQSE)                          |
+| Day 34 |  4 September, 2020   |                      [ Linkedin Splash Loader Animation ](https://youtu.be/pPjEE6ulQSE)                       |
 | Day 35 |  6 September, 2020   |                             [ Google Sign up Form ](https://youtu.be/6Gp6QMNru2c)                             |
 | Day 36 |  11 September, 2020  |                     [ Portfolio Landing Page ](https://codepen.io/aakrity17/pen/XWdqNwq)                      |
 | Day 37 | 20th September, 2020 |                     [Image Slide Animation](https://codepen.io/aakrity17/details/bGpNYjo)                     |
 | Day 38 | 22th September, 2020 |                       [Bouncing Balls Loading Animation](https://youtu.be/OWXuuszFoBs)                        |
 | Day 39 |  27 September, 2020  |                           [ Glowing Hover Me Button ](https://youtu.be/o-KY7t6VB-k)                           |
-| Day 40 |  29 September, 2020  |                                [ Bus Animation ](https://youtu.be/5wZ8UOexPMw)                                |
+| Day 40 |  29 September, 2020  |                             [Moving Bus Animation ](https://youtu.be/5wZ8UOexPMw)                             |
 | Day 41 |     03 Oct, 2020     |                         [ Awesome Gradient Animation ](https://youtu.be/hkwxmGLb3n8)                          |
 | Day 42 |     04 Oct, 2020     |                            [ Heart Beat Animation ](https://youtu.be/w2AJB9NtOlA)                             |
 | Day 43 |     08 Oct, 2020     |                           [ NewsLetter Sign Up Form](https://youtu.be/w4eCojYnrBY)                            |
-| Day 44 |     10 Oct, 2020     |                                  [ 3d Design](https://youtu.be/EG3S6eoWlqY)                                   |
-| Day 45 |     11 Oct, 2020     |                             [ Diamond](https://codepen.io/aakrity17/pen/abZOodR)                              |
-| Day 46 |     12 Oct, 2020     |                           [ scalene Left](https://codepen.io/aakrity17/pen/abZOodR)                           |
+| Day 44 |     10 Oct, 2020     |                         [ Awesome 3d Animated Design ](https://youtu.be/EG3S6eoWlqY)                          |
+| Day 45 |     11 Oct, 2020     |                              [Diamond](https://codepen.io/aakrity17/pen/abZOodR)                              |
+| Day 46 |     12 Oct, 2020     |                           [ Scalene Left](https://codepen.io/aakrity17/pen/abZOodR)                           |
 | Day 47 |     13 Oct, 2020     |                           [ Image Cross ](https://codepen.io/aakrity17/pen/YzWXKxP)                           |
-| Day 48 |     14 Oct, 2020     |                             [ Triange ](https://codepen.io/aakrity17/pen/YzWXKxP)                             |
+| Day 48 |     14 Oct, 2020     |                            [ Triangle ](https://codepen.io/aakrity17/pen/YzWXKxP)                             |
 | Day 49 |     15 Oct, 2020     |                         [ Flag Gif Image ](https://codepen.io/aakrity17/pen/YzWXKxP)                          |
 | Day 50 |     17 Oct, 2020     |                        [Css Grid Practice ](https://codepen.io/aakrity17/pen/MWeyzbE)                         |
