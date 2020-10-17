@@ -53,5 +53,5 @@ Front-End Projects During the Challenge will be added here...
 | Day 46 |     12 Oct, 2020     |                           [ scalene Left](https://codepen.io/aakrity17/pen/abZOodR)                           |
 | Day 47 |     13 Oct, 2020     |                           [ Image Cross ](https://codepen.io/aakrity17/pen/YzWXKxP)                           |
 | Day 48 |     14 Oct, 2020     |                             [ Triange ](https://codepen.io/aakrity17/pen/YzWXKxP)                             |
-| Day 49 |     15 Oct, 2020     |                            [ Flag Gif ](https://codepen.io/aakrity17/pen/YzWXKxP)                             |
+| Day 49 |     15 Oct, 2020     |                         [ Flag Gif Image ](https://codepen.io/aakrity17/pen/YzWXKxP)                          |
 | Day 50 |     17 Oct, 2020     |                        [Css Grid Practice ](https://codepen.io/aakrity17/pen/MWeyzbE)                         |
