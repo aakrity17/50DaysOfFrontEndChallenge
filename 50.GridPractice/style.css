@@ -59,4 +59,5 @@ body {
 	background-color: aqua;
 	grid-column: 5;
 	grid-row: 1/5;
+	text-align: center;
 }
