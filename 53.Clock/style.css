@@ -1,0 +1,198 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.main {
+	min-height: 100vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	font-family: monospace;
+	background-image: url(https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/yellow-bedroom-ideas-section-17.jpg);
+	float: left;
+	cursor: pointer;
+}
+.clock {
+	width: 200px;
+	height: 200px;
+	background: rgba(12, 12, 12, 0.788);
+	border: 15px double hsla(64, 73%, 48%, 0.719);
+	border-radius: 50%;
+	display: flex;
+	left: 45%;
+	margin-top: 50px;
+	position: relative;
+	box-shadow: 10px 20px 50px hsla(64, 73%, 48%, 0.719);
+}
+.clock:before {
+	content: "";
+	width: 150px;
+	position: absolute;
+	height: 50px;
+	top: -5px;
+	left: -20px;
+	border-radius: 50%;
+	z-index: -2;
+}
+.clock:after {
+	content: "";
+	width: 15px;
+	height: 15px;
+	background: #f4f7f1;
+	border-radius: 50%;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	position: absolute;
+	z-index: 10;
+	box-shadow: 0 2px 4px -1px #f4f7f1;
+}
+.clock li {
+	list-style-type: none;
+	position: absolute;
+}
+.time {
+	position: absolute;
+	width: 95%;
+	height: 95%;
+	padding: 5%;
+	text-align: center;
+}
+.second {
+	width: 100%;
+	height: 100%;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	animation: second 60s steps(60, end) infinite;
+}
+
+.second:after {
+	content: "";
+	width: 2px;
+	height: 100px;
+	background: gold;
+	position: absolute;
+	left: calc(50% - 2px);
+}
+.minute {
+	width: 100%;
+	height: 100%;
+	animation: sec 3600s steps(60, end) infinite;
+}
+.minute:after {
+	content: "";
+	width: 2px;
+	height: 70px;
+	border-radius: 5px;
+	position: center;
+	background: #9ca7b9ec;
+	position: absolute;
+	left: calc(50% + 10px);
+	top: 28%;
+	transform: rotate(-120deg);
+}
+.hour {
+	width: 100%;
+	height: 100%;
+	margin-left: 3px;
+}
+
+.hour:after {
+	content: "";
+	width: 5px;
+	height: 40px;
+	border-radius: 6px;
+	background: #d2e4e2b4;
+	position: absolute;
+	left: calc(50% - 5px);
+	top: 50%;
+}
+.time span {
+	display: block;
+	color: hsl(71, 86%, 49%);
+	font-size: 10px;
+}
+.time:nth-child(1) {
+	transform: rotate(30deg);
+}
+.time:nth-child(1) span {
+	transform: rotate(-30deg);
+}
+.time:nth-child(2) {
+	transform: rotate(60deg);
+}
+.time:nth-child(2) span {
+	transform: rotate(-60deg);
+}
+.time:nth-child(3) {
+	transform: rotate(90deg);
+}
+.time:nth-child(3) span {
+	transform: rotate(-90deg);
+}
+.time:nth-child(4) {
+	transform: rotate(120deg);
+}
+.time:nth-child(4) span {
+	transform: rotate(-120deg);
+}
+.time:nth-child(5) {
+	transform: rotate(150deg);
+}
+.time:nth-child(5) span {
+	transform: rotate(-150deg);
+}
+.time:nth-child(6) {
+	transform: rotate(180deg);
+}
+.time:nth-child(6) span {
+	transform: rotate(-180deg);
+}
+.time:nth-child(7) {
+	transform: rotate(210deg);
+}
+.time:nth-child(7) span {
+	transform: rotate(-210deg);
+}
+.time:nth-child(8) {
+	transform: rotate(240deg);
+}
+.time:nth-child(8) span {
+	transform: rotate(-240deg);
+}
+.time:nth-child(9) {
+	transform: rotate(270deg);
+}
+.time:nth-child(9) span {
+	transform: rotate(-270deg);
+}
+.time:nth-child(10) {
+	transform: rotate(300deg);
+}
+.time:nth-child(10) span {
+	transform: rotate(-300deg);
+}
+.time:nth-child(11) {
+	transform: rotate(330deg);
+}
+.time:nth-child(11) span {
+	transform: rotate(-330deg);
+}
+
+.time:nth-child(12) span {
+	transform: rotate(360deg);
+}
+
+.time:nth-child(12) span {
+	transform: rotate(-360deg);
+}
+
+@keyframes second {
+	to {
+		transform: rotate(360deg);
+	}
+}
