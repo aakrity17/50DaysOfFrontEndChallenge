@@ -56,4 +56,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 49 |     15 Oct, 2020     |                         [ Flag Gif Image ](https://codepen.io/aakrity17/pen/YzWXKxP)                          |
 | Day 50 |     17 Oct, 2020     |                        [Css Grid Practice ](https://codepen.io/aakrity17/pen/MWeyzbE)                         |
 | Day 51 |     19 Oct, 2020     |              [Top 14 Adventures Things to do in Nepal Image Grid](https://youtu.be/RP3_4vWpvFE)               |
-| Day 52 |     Nov 4, 2020      |                 [ CLock Without Using JavaScript ](https://codepen.io/aakrity17/pen/RwRBNMe)                  |
+|  <!--  |        Day 52        |                                                  Nov 4, 2020                                                  | [ CLock Without Using JavaScript ](https://codepen.io/aakrity17/pen/RwRBNMe) | --> |
