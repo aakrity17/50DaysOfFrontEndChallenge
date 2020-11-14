@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-image: url(light.gif);
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 100vw;
+	background-position: fixed;
+	background-size: cover;
+	overflow: hidden;
+	cursor: pointer;
+}
+h3 {
+	color: #f7f7f4ec;
+	font-size: 40px;
+	text-align: center;
+	font-family: cursive;
+	margin-top: 200px;
+	animation: spanimation 1s ease-in-out infinite;
+}
+h2 {
+	color: #f7f7f4ec;
+	font-size: 60px;
+	text-align: center;
+	font-family: cursive;
+	margin-top: 60px;
+	animation: spanimation 1s ease-in-out infinite;
+}
+
+@keyframes spanimation {
+	from {
+		text-shadow: 0px 0px 50px rgb(165, 144, 22), 0px 0px 20px gold,
+			0px 0px 30px #ffd700, 0px 0px 40px rgb(156, 136, 21),
+			0px 0px 50px rgba(184, 159, 22, 0.863);
+	}
+
+	to {
+		text-shadow: 0px 0px 40px rgb(16, 197, 46), 0px 0px 20px gold,
+			0px 0px 30px #ffd700, 0px 0px 60px rgba(221, 192, 25, 0.774),
+			0px 0px 50px rgba(16, 175, 43, 0.863);
+	}
+}
