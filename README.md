@@ -59,3 +59,4 @@ Front-End Projects During the Challenge will be added here...
 | Day 52 |     Nov 4, 2020      |                 [ CLock Without Using JavaScript ](https://codepen.io/aakrity17/pen/RwRBNMe)                  |
 | Day 53 |     Nov 4, 2020      |                 [ CLock Without Using JavaScript ](https://codepen.io/aakrity17/pen/RwRBNMe)                  |
 | Day 54 |     Nov 10, 2020     |                                [ Happy Diwali ](https://youtu.be/llwz1c3TMss)                                 |
+| Day 54 |     Nov 20, 2020     |                                [ Happy Diwali ](https://youtu.be/llwz1c3TMss)                                 |
